@@ -15,9 +15,7 @@
 #ifndef WINVER				// Allow use of features specific to Windows 95 and Windows NT 4 or later.
 #define WINVER 0x0501		// Change this to the appropriate value to target Windows 98 and Windows 2000 or later.
 #endif
-		
-#define _ATL_CSTRING_EXPLICIT_CONSTRUCTORS	// some CString constructors will be explicit
-erature\RationalDMIS API\VC Samples\NeptunePublicGoto
+
 // turns off MFC's hiding of some common and often safely ignored warning messages
 #define _AFX_ALL_WARNINGS
 
